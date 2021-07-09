@@ -1,11 +1,6 @@
-A=5
-B=20
-C=55
-H=A+B
-J=A+C
-G=B+C
+A=int(input())
+B=int(input())
 
-print(H)
-print(J)
-print(G)
+print(A+B)
+
 
