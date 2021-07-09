@@ -1,1 +1,2 @@
-print("Sorrapat Khammin")
+A=input()
+print(A)
