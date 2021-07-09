@@ -1,4 +1,2 @@
-B=input("My birth day :")
-A=int(input(20))
+A = input()
 print(A)
-print(B)

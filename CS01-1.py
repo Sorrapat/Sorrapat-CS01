@@ -1,2 +1,2 @@
-A=input()
+A = input("Hello World")
 print(A)
