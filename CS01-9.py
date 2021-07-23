@@ -1,3 +1,2 @@
-for G in "NUGGET":
+for G in "NUGGET SORRAPAT":
     print(G)
-    
