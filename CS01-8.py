@@ -1,3 +1,3 @@
-A = int(input("Enter your number:"))
+Z = int(input("Enter your number:"))
 for i in range(100):
-    print(i+A)
+    print(i+Z)
