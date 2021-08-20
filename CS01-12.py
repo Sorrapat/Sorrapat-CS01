@@ -5,5 +5,3 @@ E=Names[2]
 print(Q)
 print(W)
 print(E)
-
-

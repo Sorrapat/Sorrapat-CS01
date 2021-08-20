@@ -1,6 +1,6 @@
-list = [5,10,15,20,25,50,20]
-for i in range(len(list)):
+Superlist = [5,10,15,20,25,50,20]
+for i in range(len(Superlist)):
     print(i)
-    if (list[i] == 20):
-        list[i] = 200
-print(list)
+    if (Superlist[i] == 20):
+        Superlist[i] = 200
+print(Superlist)
