@@ -51,4 +51,5 @@ Button(Nugget,text=".",command=lambda:press(".")).grid(row=5,column=1,columnspan
 Button(Nugget,text="+",command=lambda:press("+")).grid(row=5,column=3)
 
 Button(Nugget,text="=",command=equal).grid(row=6,column=0,columnspan=4,sticky="news")
+
 Nugget.mainloop()
