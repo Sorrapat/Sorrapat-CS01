@@ -22,7 +22,8 @@ def equal():
         expression=""
         lable_show_cal
     lable_show_cal.set(result)
-Nugget=Tk()
+Nugget = Tk()
+Nugget.title("Nugget Calculator")
 Nugget.option_add("font","consolas 30")
 lable_show_cal=StringVar()
 lable_show_cal.set(0)
