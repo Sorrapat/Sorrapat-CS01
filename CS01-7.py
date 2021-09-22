@@ -19,5 +19,5 @@ if(C <= 10):
     print("บ่ผ่าน")
 elif(C <= 20):
     print("ปรับปรุง")
-else :
+else:
     print("ผ่าน")
